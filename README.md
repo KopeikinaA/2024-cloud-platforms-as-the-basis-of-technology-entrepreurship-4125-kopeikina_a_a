@@ -1,0 +1,1 @@
+# 2024-cloud-platforms-as-the-basis-of-technology-entrepreurship-4125-kopeikina_a_a
