@@ -8,6 +8,8 @@ Lab: Lab1
 Date of create: 16.04.2024
 Date of finished: 
 ## Шаг первый: Создала сервис аккаунт с ролью Storage Admin
+![image](https://github.com/KopeikinaA/2024-cloud-platforms-as-the-basis-of-technology-entrepreurship-4125-kopeikina_a_a/assets/164926706/675954fc-5429-4128-94c6-99a8cdeb5aa2)
+
 ## Шаг второй: Создала виртуальную машину в режиме Spot с привязкой своего аккаунта
 ## Шаг третий: Зашла в терминал своей виртуальной машины, нашла папку с 3 фото, скопировала поочередно эти фото себе на локальный диск
 ## Шаг четвертый: Зашла в раздел AIM&Admin и сменила роль аккаунта на Computer Viwer
