@@ -16,3 +16,7 @@
 ![image](https://github.com/KopeikinaA/2024-cloud-platforms-as-the-basis-of-technology-entrepreurship-4125-kopeikina_a_a/assets/164926706/1959270d-b497-4599-99a8-eb98931ef6bd)
 Изменилось название hello-00002, далее иду в метрики 
 ![image](https://github.com/KopeikinaA/2024-cloud-platforms-as-the-basis-of-technology-entrepreurship-4125-kopeikina_a_a/assets/164926706/b62946ec-b678-4a71-b795-63a93cc206c8)
+вроде ничего не поменялось, но я изменила временой промежуток на 30 минут и вижу как зафиксированна была моя активность в метрике "количество поступающих запросов 
+![image](https://github.com/KopeikinaA/2024-cloud-platforms-as-the-basis-of-technology-entrepreurship-4125-kopeikina_a_a/assets/164926706/d437b5f5-757e-4d15-b5d3-fbe3c2f652d2)
+Исходя из совершенных действий, можно сделать вывод, что Cloud Run может быстро создать сайт, а также эффективно отслеживать изменения связанные как с нагрузкой на сервер, так и отследить различные типы обращений и процессов связанных с сайтом
+
