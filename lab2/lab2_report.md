@@ -1,3 +1,11 @@
+### University: ITMO University
+### Faculty: FTMI Course: Cloud platforms as the basis of technology entrepreneurship
+### Year: 2024
+### Group: U4125
+### Author: Kopeikina Anastasiia Alexandrovna
+### Lab: Lab2
+### Date of create: 21.04.2024
+### Date of finished: 26.04.2024
 ## Создаю Cloud Run из представленного дефолтного сервиса Hello с минимальным количеством ресурсов
 ![image](https://github.com/KopeikinaA/2024-cloud-platforms-as-the-basis-of-technology-entrepreurship-4125-kopeikina_a_a/assets/164926706/24fa7a2e-f03a-40fa-be95-1f0184149903)
 ![image](https://github.com/KopeikinaA/2024-cloud-platforms-as-the-basis-of-technology-entrepreurship-4125-kopeikina_a_a/assets/164926706/d5364129-6db8-419e-aae4-f2d8a046807e)
