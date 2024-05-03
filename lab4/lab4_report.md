@@ -11,6 +11,9 @@
 #### Virtual Machine: e2-micro 0.25-2 vCPU 1 GB memory ~ 7$
 #### SQL Cloud: PostgreSQL 1 vCPU 0.6 GB memory ~ 9$
 #### Итог ~ 16$
+![image](https://github.com/KopeikinaA/2024-cloud-platforms-as-the-basis-of-technology-entrepreurship-4125-kopeikina_a_a/assets/164926706/82e3fd4d-a3c5-4004-9180-7ad5ef9fbbc6)
+![image](https://github.com/KopeikinaA/2024-cloud-platforms-as-the-basis-of-technology-entrepreurship-4125-kopeikina_a_a/assets/164926706/7247eaf2-2c84-44c4-81fe-16bc4709dce5)
+
 ##### Выбор данной конфигурации обусловлен небольшим количеством пользователей и низкими нагрузками на приложение на начальном этапе. Этот тип обеспечивает достаточные ресурсы для запуска и тестирования приложения, не превышая бюджет.
 ### Тестирование партнёрами (до 150 человек)
 #### Virtual Machine: e2-small 0.5-2 vCPU 2 GB memory ~ 13$
