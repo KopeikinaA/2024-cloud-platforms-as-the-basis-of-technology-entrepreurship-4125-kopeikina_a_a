@@ -7,22 +7,26 @@
 ### Date of create: 28.04.2024
 ### Date of finished: 
 ![image](https://github.com/KopeikinaA/2024-cloud-platforms-as-the-basis-of-technology-entrepreurship-4125-kopeikina_a_a/assets/164926706/81e378d2-6a9f-48b0-af93-1483581a2eaa)
+### 
 ### Начальное состояние (до 40 человек)
-#### Virtual Machine: e2-micro 0.25-2 vCPU 1 GB memory ~ 7$
-#### SQL Cloud: PostgreSQL 1 vCPU 0.6 GB memory ~ 9$
+#### Virtual Machine: e2-micro 0.25-2 vCPU 1 GB memory ~ 2$
+#### SQL Cloud: PostgreSQL 1 vCPU 0.6 GB memory ~ 14$
 #### Итог ~ 16$
+![image](https://github.com/KopeikinaA/2024-cloud-platforms-as-the-basis-of-technology-entrepreurship-4125-kopeikina_a_a/assets/164926706/de4088fd-7952-4004-9b7c-d2dc9415615d)
 
 ##### Выбор данной конфигурации обусловлен небольшим количеством пользователей и низкими нагрузками на приложение на начальном этапе. Этот тип обеспечивает достаточные ресурсы для запуска и тестирования приложения, не превышая бюджет.
 ### Тестирование партнёрами (до 150 человек)
-#### Virtual Machine: e2-small 0.5-2 vCPU 2 GB memory ~ 13$
-#### SQL Cloud: PostgreSQL 1 vCPU 1.7 GB memory ~ 29$
-#### Итог ~ 42$
+#### Virtual Machine: e2-small 0.5-2 vCPU 2 GB memory ~ 4$
+#### SQL Cloud: PostgreSQL 1 vCPU 1.7 GB memory ~ 31$
+#### Итог ~ 35$
+![image](https://github.com/KopeikinaA/2024-cloud-platforms-as-the-basis-of-technology-entrepreurship-4125-kopeikina_a_a/assets/164926706/269ab494-31fc-44a8-85a3-0335c41b3765)
 
 #### Увеличение объема ресурсов, связано с увеличением числа пользователей и, соответственно, с увеличением нагрузки на приложение. Увеличение ресурсов базы данных также обусловлено увеличением нагрузки и объема данных, генерируемых и обрабатываемых приложением при тестировании продукта партнёрами.
 ### Продовое решение (от 300 человек)
-#### Virtual Machine: e2-medium 1-2 vCPU 4 GB memory ~ 25$
-#### SQL Cloud: PostgreSQL 1 vCPU 3.75 GB memory ~ 66$
-#### Итог ~ 91$
+#### Virtual Machine: e2-medium 1-2 vCPU 4 GB memory ~ 7$
+#### SQL Cloud: PostgreSQL 1 vCPU 3.75 GB memory ~ 65$
+#### Итог ~ 72$
+![image](https://github.com/KopeikinaA/2024-cloud-platforms-as-the-basis-of-technology-entrepreurship-4125-kopeikina_a_a/assets/164926706/10e3563f-57fb-4a66-a7ad-736d28a5f73b)
 
 #### Для продового решения необходимы более мощные ресурсы, из-за обработки более высокой нагрузки и увеличения объема данных, с которыми приходится работать на этапе продуктивной эксплуатации.
 ### Таким образом, на начальном этапе были выбраны VM: e2-micro 0.25-2 vCPU 1 GB memory и SQL Cloud: PostgreSQL 1 vCPU 0.6 GB memory, так как они обеспечивают достаточные ресурсы для начального числа пользователей при минимальных затратах.
